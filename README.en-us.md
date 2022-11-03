@@ -4,7 +4,7 @@ src="https://raw.githubusercontent.com/gist/alexandrersantana/e942b26b6f13d02c99
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.en-us.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/alexandrersantana/alexandrersantana/edit/main/README.fr.md)
+[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.fr.md)
 
 
 - 🔥 Flutter Developer
