@@ -3,8 +3,8 @@ src="https://raw.githubusercontent.com/gist/alexandrersantana/e942b26b6f13d02c99
 <h1 align="left">Salve <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Alexandre!</h1>
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.en-us.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/alexandrersantana/alexandrersantana/edit/main/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/alexandrersantana/alexandrersantana/edit/main/README.fr.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.fr.md)
 
 
 - 🔥 Desenvolvedor Flutter
@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/gist/alexandrersantana/e942b26b6f13d02c99
   
 <p align="left" style="background:yellow">
   
-##  Contato <img align="left" height="25em" src="https://user-images.githubusercontent.com/60994165/199614842-3074c0dc-73fe-4b37-89b7-8d6c7a8cd6d8.png"/>
+##  Contact <img align="left" height="25em" src="https://user-images.githubusercontent.com/60994165/199614842-3074c0dc-73fe-4b37-89b7-8d6c7a8cd6d8.png"/>
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/alexandre-santana-a8bb05183/" target="_blank">
