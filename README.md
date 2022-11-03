@@ -1,7 +1,11 @@
 <img align="right" height="590em"
 src="https://raw.githubusercontent.com/gist/alexandrersantana/e942b26b6f13d02c993080e1165535ea/raw/08876d5eb93c8fa3aa673fb95245bea168d87e6c/githubcard.svg"/>
 <h1 align="left">Salve <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Alexandre!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrersantana&color=yellow" alt="Profile views" /> </p>
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/alexandrersantana/alexandrersantana/blob/main/README.en-us.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/alexandrersantana/alexandrersantana/edit/main/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-yellow.svg)](https://github.com/alexandrersantana/alexandrersantana/edit/main/README.fr.md)
+
 
 - 🔥 Desenvolvedor Flutter
 
