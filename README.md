@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/gist/alexandrersantana/e942b26b6f13d02c99
   
 <p align="left" style="background:yellow">
   
-##  Contact <img align="left" height="25em" src="https://user-images.githubusercontent.com/60994165/199614842-3074c0dc-73fe-4b37-89b7-8d6c7a8cd6d8.png"/>
+##  Contato <img align="left" height="25em" src="https://user-images.githubusercontent.com/60994165/199614842-3074c0dc-73fe-4b37-89b7-8d6c7a8cd6d8.png"/>
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/alexandre-santana-a8bb05183/" target="_blank">
